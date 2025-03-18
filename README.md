@@ -4,6 +4,12 @@ CNI-WEB은 마을대기측정망 홈페이지 입니다.
 
 홈페이지의 일부는 Ext JS 6.2.0.981(GPL 3.0) - JavaScript Library를 이용하여 구현 되었습니다.
 
+실행환경은 
+was : apache-tomcat-9.0.6(win 64-bit), 
+jre : openjdk version "14.0.2" 2020-07-14
+      OpenJDK Runtime Environment (build 14.0.2+12-46)
+      OpenJDK 64-Bit Server VM (build 14.0.2+12-46, mixed mode, sharing)
+
 
 * 라이센스 *
 
